@@ -1,0 +1,7 @@
+Flask
+Pillow
+keras
+numpy
+requests
+gunicorn
+tensorflow-cpu
